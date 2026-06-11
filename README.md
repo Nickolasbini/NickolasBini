@@ -32,9 +32,9 @@
 ### 🚀 Projetos & Ecossistema em Destaque
 
 * 📡 **Arquitetura e Integração de APIs REST:** Design, implementação e consumo de APIs seguras e versionadas utilizando Laravel e Node.js. Vasta experiência na criação de ecossistemas para comunicação com SPAs, bots e sistemas B2B, além de integrações completas com serviços de terceiros como gateways de pagamento PIX, OpenRouter, Telegram e automações corporativas.
-* 🌐 **Aplicações Web Full-Stack:** Sistemas completos com Node.js, Vue.js, PrimeVue e REST APIs — desde autenticação JWT multi-sessão até sistemas de tickets com painel administrativo.
+* 🌐 **Aplicações Web Full-Stack:** Sistemas completos com Node.js, Vue.js, PrimeVue e REST APIs desde autenticação JWT multi-sessão até sistemas de tickets com painel administrativo.
 * 📊 **Sistemas CRM Sob Medida:** Desenvolvimento e manutenção de plataformas CRM corporativas com PHP e Laravel, incluindo integrações de APIs REST, controle de sprints e ciclos completos de entrega.
-* 🤖 **WhatsApp Bot com IA:** Automação de atendimento multi-sessão com Node.js, Baileys e integração com LLMs via OpenRouter — fluxos interativos, menus, contexto de conversa e custo zero de mensalidade.
+* 🤖 **WhatsApp Bot com IA:** Automação de atendimento multi-sessão com Node.js, Baileys e integração com LLMs via OpenRouter e fluxos interativos, menus, contexto de conversa e custo zero de mensalidade.
 * 💳 **Integração de APIs de Pagamento:** Implementação de fluxos de pagamento PIX e gateways financeiros em sistemas web, com validações, webhooks e dashboards de controle.
 * 🔍 **Scrapers & Automações de Dados:** Scripts de coleta e processamento automatizado de dados da web com Python e Node.js, voltados para relatórios, monitoramento e integrações.
 * 🎨 **Interfaces de Alta Performance & SEO Técnico:** Desenvolvimento de sites rápidos, responsivos e visualmente polidos utilizando HTML semântico e Tailwind CSS sob a filosofia mobile-first. Foco em otimização para buscadores via meta tags estruturadas, Open Graph, URLs amigáveis e auditoria com PageSpeed Insights.
