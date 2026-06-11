@@ -1,9 +1,9 @@
 # Faaaala Pessoal, Nickolas Alvaro Bini aqui! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickolas-alvaro-bini/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cervodigital_/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickolasbini/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cervodigital/)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodigoPraticoOficial)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541984320432)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541999999999)
 
 ---
 
@@ -12,20 +12,30 @@
 * 💻 **Full-Stack Developer** focado em criar soluções robustas, rápidas e sob medida utilizando código puro (sem low-code/plataformas genéricas).
 * 🦊 **Fundador da [Cervo Digital](https://www.instagram.com/cervodigital/)**, agência especializada em desenvolvimento web de alta performance, e-commerce e automações de processos de negócios.
 * 🎥 **Criador de Conteúdo no canal [CódigoPrático](https://www.youtube.com/@CodigoPraticoOficial)**, onde compartilho tutoriais diretos ao ponto sobre arquitetura de sistemas, bots e aplicações reais.
-* 🛠 **Stack principal:** Node.js, PHP/Laravel, Vue.js, Tailwind CSS e integrações via REST APIs.
 
 ---
 
-### 🧰 Tecnologias
+### 🛠️ Toolbox / Tecnologias
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+* 🧰 **Backend:** `PHP` | `Laravel` | `Node.js` | `Python`
+* 🎨 **Frontend:** `Vue.js` | `Angular` | `Tailwind CSS` | `JavaScript (ES6+)` | `jQuery`
+* 🗄️ **Infra & Dados:** `MySQL` | `phpMyAdmin` | `Git` | `JSON/REST APIs`
+
+---
+
+### 📐 Como eu trabalho & Metodologia
+
+* 📋 **Engenharia de Requisitos:** Alinhamento estratégico e mapeamento de escopo focado em resolver gargalos reais de negócios e processos.
+* 🏃‍♂️ **Desenvolvimento Ágil:** Organização de entregas via Sprints estruturadas, garantindo transparência, prazos previsíveis e evolução constante do software.
+* 🛡️ **Qualidade e Manutenibilidade:** Desenvolvimento pautado em código limpo, APIs bem documentadas, arquitetura escalável e refatoração de sistemas legados.
+
+---
+
+### 🗣️ Idiomas
+
+* 🇧🇷 **Português:** Nativo.
+* 🇺🇸 **Inglês:** Fluente / Proficiência Plena (Experiência lecionando o idioma e consumindo documentações técnicas internacionais).
+* 🇵🇾 **Espanhol:** Intermediário Receptivo / Compreensão Passiva (Forte capacidade de leitura e interpretação de texto/áudio decorrente de vivência no exterior).
 
 ---
 
@@ -40,10 +50,19 @@
 * 🎨 **Interfaces de Alta Performance & SEO Técnico:** Desenvolvimento de sites rápidos, responsivos e visualmente polidos utilizando HTML semântico e Tailwind CSS sob a filosofia mobile-first. Foco em otimização para buscadores via meta tags estruturadas, Open Graph, URLs amigáveis e auditoria com PageSpeed Insights.
 * 🛒 **E-commerce & Soluções para Negócios Locais:** Desenvolvimento de lojas e sistemas de automação de atendimento para pequenas e médias empresas, do layout ao bot de vendas.
 * 🧑‍🏫 **Educação em Programação:** Criação de mais de 20 tutoriais práticos no canal [Código Prático](https://www.youtube.com/@CodigoPraticoOficial), cobrindo Node.js, PHP, Tailwind, APIs e arquitetura de sistemas.
+---
+
+### 📺 Do Canal para o Código (CódigoPrático)
+
+* 🌐 [**Aplicação de Cotação de Câmbio em Tempo Real com Python**](https://youtu.be/QTKYXON472k) - Monitore moedas, gere gráficos dinâmicos e receba alertas automáticos via Telegram. API + Python + dados ao vivo em um projeto completo do zero.
+* 🤖 [**Como Criar um Bot de WhatsApp do Zero**](https://youtu.be/JkvbnQg2OWE) - Do ambiente de desenvolvimento ao primeiro "Olá" automático: Node.js, Baileys e IA integrada para atendimento real sem custo de mensalidade.
+* 🌍 [**Como Criar um Site do Zero em 2025**](https://youtu.be/kIImolG-C1M) - O vídeo mais assistido do canal. HTML, Tailwind CSS e boas práticas de layout para quem quer sair do zero e chegar ao profissional.
+* 🔍 [**Como Fazer seu Site Aparecer no Google em 2026**](https://youtu.be/YlRtr5az-Rw) - SEO técnico aplicado direto no HTML: title, meta description, Open Graph, URLs amigáveis e auditoria com PageSpeed Insights.
+* 🔔 [**Como Enviar Notificações Gratuitas com Telegram**](https://youtu.be/ecjbTuxqTLY) - Configure um bot, obtenha o token e integre alertas automáticos em qualquer aplicação em menos de 8 minutos.
 
 ---
 
-### 📊 Estatísticas e Atividade
+### 📊 Estatísticas e Tecnologias
 
 <table width="100%">
   <tr>
